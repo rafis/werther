@@ -1,3 +1,4 @@
+# syntax=docker/dockerfile:1.2
 # Copyright (c) JSC iCore.
 
 # This source code is licensed under the MIT license found in the
